@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+```markdown
+# UI Replication App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is a replication of the UI provided in the following link:
+[UI Link](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=fc7038bf0f&attid=0.1&permmsgid=msg-f:1792322643618059743&th=18df9bf2bfbe55df&view=att&disp=inline&realattid=f_lt8kb3xx0&saddbat=ANGjdJ9F9K_u1dTwtlPNgSChAA3fDOuieLUOBv_8ylPQK2SRdMDlAoTd6LG881Z_jlSAKwrWYzCyAYhIBvZq1FVVQ6I5wtipgBauwa2-Qp78JWTPJfghUv97WxpdpFjfjk1JHusrr-MDdOovePDJt8eYNtaDlgzD5XF8fWACrVcWeWuaO2VzUHnAJjJiRCoU1BkHnq08wAPC7Py7G4GVEqqD0lNcsNnZvqUrg33EUrCd4HICH4MFYPHj2koRidB9HKhEjfgHFkNeAcl4sfQgKhWoSoedzoHcXDpER0Z3NP9rzSvzuaReE_ZVoQcWlWM9hckGIwTZE-x1oJerInpzNxS7-l5K9iUQNk48Yi75HdE1H3V5dGz2gE96qPINkcl1yO1UuNmtCggog5HWZcPWEmcJkEwAWG0WBNKtSYrRNCAqEI4s2PLHjBOg9V7cgERy-7Vu2GOVhcROIv2JobEzFiNjBdlaDJzlfMYWHHXtbcP6sEc5BlNB7rpvr-bqKtKm8CngJhlxkjiYGSf0s5E8ye2kx_5FnCyUE1cjgjuhuTHbxV13f-fC7gdxkozuU8yN80KBIE__xFkrOc0fzKN6-Xvu9UlD103gfnyI7N1SgBtmL0ijRwSPNGBlaljPWbS1cznOMPII4n5m5PDUAYevl7TRiMwOt3sNq-hSmHyjj9lLRD3sPSOytr9G2w8lN6ihpFLIRTfKPPyiFPo9Y0lk17lwPUaxex3uW0owTP97at42zpuoAmzj9mB3rQfIVZdXuk_jmZNGtdyOtvHwpepR8hX3U_g__fqw2-c8kGw1mw7YOhDkW3a6o9hEO_S7V2RqpIWL6ic_bmXDqRir7lC2kIO_twz7D6JjAS0FhVGS_SrBpdd96YHc_m3a0Ma-E4y3duJwpwyJQU6deab6UZG9f5_WfZ9kesp2we2C45JOxHR39IvqFM2aePuT5XH2xtycSr-yr701wr4nM9X6f5LNgXRmY7uKtbOGY6oSAqRxyFJH8jitBkR7hJwJiD2Jk48)
 
-## Available Scripts
+The application consists of the following components:
 
-In the project directory, you can run:
+- Header with Navbar and Logo
+- Slider Section
 
-### `npm start`
+### Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Local Setup
 
-### `npm test`
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm start` to start the application
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Now, the application should be up and running locally.
+```
